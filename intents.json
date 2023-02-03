@@ -1,0 +1,32 @@
+{"intents": [
+ 
+    {"tag": "create_note",
+    "patterns": ["Please create a new note", "New note", "Create a note", "I want to create a note"],
+    "responses": [""]},
+   
+   {"tag": "add_todo",
+    "patterns": ["I want to add a todo", "add a new todo", "add a todo to my list", "new item on my todo list"],
+    "responses": [""]},
+   
+   {"tag": "show_todos",
+    "patterns": [""],
+    "responses": [""]},
+   
+   {"tag": "search_dictionary",
+    "patterns": ["Can you look up this word", "What does this word mean", "I don't know what this is"],
+    "responses": [""]},
+
+    {"tag": "search_google",
+    "patterns": ["Can you  google this", "Can you search this", "Find this on the internet"],
+    "responses": [""]},
+   
+    {"tag": "find_on_map",
+    "patterns": ["Can you look this place up", "Can you find this on the map", "Can you google where this is", "Can you search where this is"],
+    "responses": [""]},
+
+   {"tag": "exit",
+    "patterns": ["Bye", "Stop", "Quit", "I want to quit", "Goodbye", "I want to exit", "I have to go"],
+    "responses": [""]}
+
+
+]}
