@@ -12,6 +12,6 @@ Say something related to one of the following topics (functionality as of now): 
 -look something up on a map </br>
 -search something on the dictionary </br> </br>
 
-When trying to search something state the nature of what you'd like to search first. </br>
+When trying to search something state the nature of what you'd like to search first (E.g. I'd like you to search this location). </br>
 Then the assistant will respond by asking you what to search and then you state it. </br>
 Say Exit, Bye or something of the like to close the program.  </br>
