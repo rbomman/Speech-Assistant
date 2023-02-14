@@ -1,5 +1,6 @@
 # Speech-Assistant
-This program was heavily inspired by NeuralNine, the machine learning models were not designed by me
+This program was heavily inspired by NeuralNine, 
+The machine learning models were not designed by me. 
 
 Speech assistant in python that can do a variety of tasks. </br>
 Download the necessary libraries: neuralintents, speech_recognition, pyttsx3, webbrowser. </br>
