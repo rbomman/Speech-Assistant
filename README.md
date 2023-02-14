@@ -14,4 +14,4 @@ Say something related to one of the following topics (functionality as of now): 
 
 When trying to search something state the nature of what you'd like to search first. </br>
 Then the assistant will respond by asking you what to search and then you state it. </br>
-Says Exit, Bye or something of the like to close the program.  </br>
+Say Exit, Bye or something of the like to close the program.  </br>
